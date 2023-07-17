@@ -126,7 +126,7 @@ $resultAllBookings = $con->query($sqlAllBookings)
                     <th scope="col">B-ID</th>
                     <th scope="col">Farbe</th>
                     <th scope="col">Herteller Name</th>
-                    <th scope="col">Herteller Vorname</th>
+                    <th scope="col">Herteller Vorname</th> 
                     </tr>
                 </thead>
                 <tbody>
